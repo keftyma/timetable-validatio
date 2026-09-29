@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE timeTable SYSTEM "timetable.dtd">
+<timeTable>
+    <complexes>
+        <complex code="C001">
+            <name>Спортивный комплекс «Олимп»</name>
+            <address>г. Москва, ул. Спортивная, д. 10</address>
+        </complex>
+        <complex code="C002">
+            <name>ФОК «Заря»</name>
+            <address>г. Москва, пр-т Мира, д. 5</address>
+        </complex>
+    </complexes>
+    <lessons>
+        <lesson no="1" complex="C001">
+            <date>2023-10-25</date>
+            <time>18:00</time>
+        </lesson>
+        <lesson no="2" complex="C002">
+            <date>2023-10-26</date>
+            <time>19:30</time>
+        </lesson>
+    </lessons>
+</timeTable>
